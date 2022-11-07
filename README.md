@@ -3,14 +3,6 @@
 Olá, seja bem vindo ao primeiro commit da nossa organização!
 Somos a UnoCred, uma empresa focada em soluções financeiras que se difere dos seus concorrentes por sua agilidade e o foco na humanização.
 
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-- [Maven](https://maven.apache.org/) - Gerente de Dependência
-- [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
 ## 🖇️ Colaborando
 
 Colaborando neste projeto: [Carlos Gomes](https://github.com/Dev-Shinsei)
